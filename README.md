@@ -37,10 +37,10 @@ I am a **Computer Science and Engineering** student at **Chaithanya Bharathi Ins
 - **Technologies**: Python, Scikit-learn, Pandas, Flask
 - **Link**: [GitHub Repository](https://github.com/ManasaNagaram/book-recommender)
 
-### [SustainChain: Donation Platform](https://github.com/ManasaNagaram/sustainchain)
+### SustainChain: Donation Platform
 - **Description**: **Finalist in the Code for Good Hackathon**, developed a **MERN stack** platform for donations with a real-time notification system and automated donation workflows.
 - **Technologies**: MERN Stack (MongoDB, Express, React, Node.js)
-- **Link**: [GitHub Repository](https://github.com/ManasaNagaram/sustainchain)
+
 
 ---
 
